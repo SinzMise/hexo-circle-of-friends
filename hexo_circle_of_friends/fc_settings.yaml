@@ -35,7 +35,7 @@ SETTINGS_FRIENDS_LINKS: {
     list: [
         # 示例1：
         ["MHuiG", "https://blog.mhuig.top/", "https://jsd.cdn.sininno.eu.org/npm/mhg@latest"],
-        ["甜鱼/Ayu", "https://ayu.land/", "https://ayu.land/about/Ayu.jpg"],
+        ["甜鱼/Ayu", "https://ayu.land/", "https://ayu.land/about/Ayu.jpg", "atom.zh.xml"],
         ["Ading阿定の小站", "https://blog.saop.cc/", "https://picbed.saop.cc/Asuna/Asuna1x1.png"]
         # ["Akilarの糖果屋", "https://akilar.top/", "https://akilar.top/images/headimage.png"],
         # 示例2：使用suffix的配置如下
